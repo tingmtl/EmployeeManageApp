@@ -1,0 +1,10 @@
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\bin\Debug\EmployeeMaintance.exe.config
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\bin\Debug\EmployeeMaintance.exe
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\bin\Debug\EmployeeMaintance.pdb
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.EmployeeForm.resources
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.Properties.Resources.resources
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.csproj.GenerateResource.cache
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.csproj.CoreCompileInputs.cache
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.exe
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.pdb
+D:\Lallse college - zft\course document\Fall2019\ADVANCED OBJECT-PROGRAMMING\Assignment\EmployeeMaintance\EmployeeMaintance\obj\Debug\EmployeeMaintance.csprojAssemblyReference.cache
